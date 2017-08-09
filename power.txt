@@ -1,2 +1,4 @@
 This branch file is created for testing power branch.
 It has to be reflect in master.
+Modified has been done from power branch.
+It has to be reflect from power power.txt
