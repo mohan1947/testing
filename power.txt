@@ -2,3 +2,7 @@ This branch file is created for testing power branch.
 It has to be reflect in master.
 Added new lines from master branch.
 it has to be master power.txt
+hlsdhflsda
+fsdkjhsdjf
+sdffkjhjsdf
+asdflhsfd
